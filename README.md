@@ -1,7 +1,8 @@
 # NotePlayer
 NotePlayer uses a specific syntax to convert notes into sound using MIDI. See the example transrciption file to see an epic MIDI rendition of some Kirby's Return to Dreamland Boss Music.
 ## Individual Note Formatting
-![image](https://user-images.githubusercontent.com/108494599/221381414-c4340ccb-9233-4ad5-93b9-c4b75f587b50.png)
+![image](https://user-images.githubusercontent.com/108494599/221381414-c4340ccb-9233-4ad5-93b9-c4b75f587b50.png)  
+*The duration is in miliseconds.*
 ## Playback Adjustment
 Each song is entered as a single line containing:
 •	an optional “playback adjustment” followed by a comma (“,”), and then
